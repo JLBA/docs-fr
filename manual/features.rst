@@ -6,10 +6,10 @@ Aperçu des fonctions
 Modèles de données
 ------------------
 
-Metamodels vous permet de concevoir des modèles de données facilement depuis le backend de Contao sans (presque) aucune restriction et sans compétence en programmation.
+Metamodels vous permet de concevoir facilement vos modèles de données  depuis le backend de Contao sans (presque) aucune restriction et sans compétence en programmation.
 
 Différents types de données sont disponibles pour les champs (attributs) comme, par exemple, texte, image, nombres, date et fichiers.
-Si vous atteignez une limite et que le type de donnée souhaité n'est pas disponible, il est aussi possible de l'implémenter.
+Si vous êtes bloqué parce que le type de donnée souhaité n'est pas disponible, il est aussi possible de l'implémenter.
 
 Les tables créées peuvent être liées par des relations 1 à n ou n à n. Il est aussi possible de connecter des tables aux tables de Contao pour établir des connexion "parent-enfant" ou implémenter des entrées de variantes.
 
